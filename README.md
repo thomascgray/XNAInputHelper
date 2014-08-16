@@ -3,7 +3,7 @@ XNAInputHelper
 
 XNA library for input using Keyboard, Mouse &amp; Xbox 360 pad
 
-*_Not of my own creation. Original author unknown, get hold of me if you recognise this code!_*
+*_Not of my own creation. I've made large modifications to this class, but the original author is unknown - get hold of me if you recognise this code!_*
 
 ##Provides a class you update on each Update() cycle of your game that helps massively with input.
 
