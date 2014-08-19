@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-namespace Arena
+namespace YourNamespaceHere
 {
     /// <summary>
     /// an enum of all available mouse buttons.
